@@ -1,0 +1,11 @@
+node_modules
+.next
+out
+.env.local
+.vercel
+*.log
+SUPABASE_MCP_RECONFIG.local.md
+preview-*.pid
+tsconfig.tsbuildinfo
+.claude/
+.history/
